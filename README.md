@@ -3,8 +3,10 @@ Analyze memory consumption.
 Collect heap dump (when the file has been read and ArrayList is fully populated but the application is still running).
 Identify memory leak if any.
 Fix memory leak if any.
+
 Results of the task:
-Java source code (with/without memory leak)
-Leak suspect report (from Eclipse MAT)
-Your findings about the memory problem
+
+- Java source code (with/without memory leak)
+- Leak suspect report (from Eclipse MAT)
+- Your findings about the memory problem
 
